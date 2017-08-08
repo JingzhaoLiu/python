@@ -34,16 +34,16 @@ webUrl = 'http://www.cnblogs.com/alex3714/articles/5885096.html'
 
 
 ## 备注
-PIL官方网站：https://pillow.readthedocs.io/en/3.4.x/
-Hibernate官网：http://hibernate.org/
-python项目：https://zhuanlan.zhihu.com/p/22164270
-GitHub网址仓库：https://github.com/lovesw/repositoryName(仓库名称)
-Android实例：http://www.haolizi.net/example/tags_Android_1.html
-各种源码创库：https://github.com/worldligang/CodeReading
-BeautifulSoup文档：https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/#id10
-影音学堂网址：https://python.freelycode.com/
-Python 中文文档：http://www.pythondoc.com/
-Django1.8 中文教程：http://www.kancloud.cn/wizardforcel/django-chinese-docs-18/98891
-一译：http://python.usyiyi.cn/
-Python开发者社区：http://www.pythontab.com/
-Python3.5中文教程：http://docs.pythontab.com/python/python3.5/
+- PIL官方网站：https://pillow.readthedocs.io/en/3.4.x/
+- Hibernate官网：http://hibernate.org/
+- python项目：https://zhuanlan.zhihu.com/p/22164270
+- GitHub网址仓库：https://github.com/lovesw/repositoryName(仓库名称)
+- Android实例：http://www.haolizi.net/example/tags_Android_1.html
+- 各种源码创库：https://github.com/worldligang/CodeReading
+- BeautifulSoup文档：https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/#id10
+- 影音学堂网址：https://python.freelycode.com/
+- Python 中文文档：http://www.pythondoc.com/
+- Django1.8 中文教程：http://www.kancloud.cn/wizardforcel/django-chinese-docs-18/98891
+- 一译：http://python.usyiyi.cn/
+- Python开发者社区：http://www.pythontab.com/
+- Python3.5中文教程：http://docs.pythontab.com/python/python3.5/
