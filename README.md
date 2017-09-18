@@ -54,8 +54,11 @@ webUrl = 'http://www.cnblogs.com/alex3714/articles/5885096.html'
 # 百度语音
 
 ├── speak
+
 │   ├── restspeak.py  百度语音合成识别 网上的小例子
+
 │   ├── speak.py      百度语音合成 网上的小例子
+
 │   └── speaktest.py  百度语音合成 测试通过
 
 
