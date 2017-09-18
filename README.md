@@ -25,12 +25,46 @@ webUrl = 'http://www.cnblogs.com/alex3714/articles/5885096.html'
 
   删除爬取的无用的文件
 
+
+# 下载
+
+- all_down.py
+
+  所有文件下载
+
+- big_down.py
+
+  大文件下载
+
+- samll_down.py
+
+  小文件下载
+
+- spiderHtml.py
+
+  gitbook 书籍网页爬取下载 
+
 # 保存gril图片
 
 爬去煎蛋网的图片，练习爬虫
 
 - down.py
   下载煎蛋网的gril图片
+
+# 百度语音
+
+├── speak
+│   ├── restspeak.py  百度语音合成识别 网上的小例子
+│   ├── speak.py      百度语音合成 网上的小例子
+│   └── speaktest.py  百度语音合成 测试通过
+
+
+# 小工具
+ - zip.py
+  文件压缩
+
+ - word.py
+ 瓦尔登湖文本的词频统计 
 
 
 ## 备注
